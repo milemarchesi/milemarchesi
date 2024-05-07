@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, adventure and anime. 
 - 🌱 I’m currently learning python. 
 - 💞️ I’m looking to collaborate on viedo games.
-- 📫 How to reach me milenmarchesi@gmail.com
+- 📫 How to reach me milemarchesi@gmail.com
 - ⚡ Fun fact: Soccer is my favorite sport!
 
 <!---
